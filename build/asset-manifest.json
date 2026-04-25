@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a8fdbe6a.css",
+    "main.js": "./static/js/main.bf7e250b.js",
+    "static/media/yellowstone.jpg": "./static/media/yellowstone.0ae77189c7762373869c.jpg",
+    "static/media/grandcanyon.jpg": "./static/media/grandcanyon.8e4b398e4bef4f75d29d.jpg",
+    "static/media/yosemite.jpg": "./static/media/yosemite.e14243678774c921fc36.jpg",
+    "index.html": "./index.html",
+    "main.a8fdbe6a.css.map": "./static/css/main.a8fdbe6a.css.map",
+    "main.bf7e250b.js.map": "./static/js/main.bf7e250b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fdbe6a.css",
+    "static/js/main.bf7e250b.js"
+  ]
+}
